@@ -5,15 +5,15 @@ The linear regression parameters θ is fitted to the dataset and the cost functi
 The final parameters are used to plot the final fit and make predictions on profits in areas with different populations.
 
 The different files included are: 
-> plotData.m : To plot the given dataset 
-> computeCost.m : Function to compute cost of linear regression 
-> gradientDescent.m : Function to run gradient descent 
-> ex1data1.txt - Dataset for linear regression with one variable 
-> ex1.m - Octave/MATLAB script 
-> submit.m - Submission script
+1. plotData.m : To plot the given dataset 
+2. computeCost.m : Function to compute cost of linear regression 
+3. gradientDescent.m : Function to run gradient descent 
+4. ex1data1.txt - Dataset for linear regression with one variable 
+5. ex1.m - Octave/MATLAB script 
+6. submit.m - Submission script
 
 The diagrams included are: 
-> data.jpg : Scatter plot to visualize the dataset 
-> LinearRegression.jpg : Plot to display the training data with linear regression fit. 
-> surfacePlot.jpg : Plot to display variation in cost function with respect to theta1 and theta2. 
-> contour.jpg : Plot to display the contour with optimum minimum point.
+1. data.jpg : Scatter plot to visualize the dataset 
+2. LinearRegression.jpg : Plot to display the training data with linear regression fit. 
+3. surfacePlot.jpg : Plot to display variation in cost function with respect to theta1 and theta2. 
+4. contour.jpg : Plot to display the contour with optimum minimum point.
